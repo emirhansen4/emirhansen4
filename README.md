@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Emirhan Şen</h1>
 <h3 align="center">A passionate Full stack developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **.Net**
 
 - 📫 How to reach me **senemirhann@gmail.com**
+
+- 📄 Linkedin [www.linkedin.com/in/emirhan-şen-4b62b71b9](www.linkedin.com/in/emirhan-şen-4b62b71b9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
