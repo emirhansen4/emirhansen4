@@ -1,4 +1,4 @@
-[![MasterHead](https://img.tamindir.com/2023/01/476730/yazilim-gelistirici.jpg)
+![MasterHead]([https://img.tamindir.com/2023/01/476730/yazilim-gelistirici.jpg](https://test.yyu.edu.tr/images/software-2.jpg))
 <h1 align="center">Hi 👋, I'm Emirhan Şen</h1>
 <h3 align="center">A passionate Full stack developer from Türkiye</h3>
 
